@@ -1,0 +1,9 @@
+6daserver:
+    port: 8080
+app:
+    ad-domain: GENIUSTREE.LOCAL
+    ad-server: ldap://WIN-EPMJLN2ONJH.geniustree.local
+    service-principal: HTTP/myserver.geniustree.local@GENIUSTREE.LOCAL
+    keytab-location: c:\dev\dai.keytab
+    ldap-search-base: dc=geniustree,dc=local
+    ldap-search-filter: "(| (userPrincipalName={0}) (sAMAccountName={0}))"
