@@ -1,4 +1,4 @@
-## How to setup AD and set up Kerberos Authentication
+## How to setup AD and setup Kerberos Authentication
 1. create domain user for service (application server like tomcat for authentication) we use ```dai``` for this exmple
 2. create DN. we use ```myserver.geniustree.local``` for example
 3. create keytab file
