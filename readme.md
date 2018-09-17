@@ -14,3 +14,10 @@ this value will be use for authentication  handshaking
 we not need to use ```setsp``` command because ```ktpass``` command will generate servicePrincipal automatically.
 
 **see ```resources/application.yml``` for application server setting**
+
+
+1. [https://www.ibm.com/support/knowledgecenter/en/SSAW57_8.5.5/com.ibm.websphere.nd.multiplatform.doc/ae/csec_SPNEGO_explain.html]()
+2. https://docs.oracle.com/javase/6/docs/technotes/guides/security/jgss/lab/part5.html
+3. https://docs.oracle.com/javase/1.5.0/docs/api/javax/security/sasl/SaslClient.html
+4. https://docs.oracle.com/cd/E23824_01/html/819-2145/sasl.intro.20.html
+5. https://docs.oracle.com/javase/6/docs/technotes/guides/security/
