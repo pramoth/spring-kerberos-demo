@@ -21,3 +21,10 @@ we not need to use ```setsp``` command because ```ktpass``` command will generat
 3. https://docs.oracle.com/javase/1.5.0/docs/api/javax/security/sasl/SaslClient.html
 4. https://docs.oracle.com/cd/E23824_01/html/819-2145/sasl.intro.20.html
 5. https://docs.oracle.com/javase/6/docs/technotes/guides/security/
+6. https://www.oracle.com/technetwork/articles/idm/weblogic-sso-kerberos-1619890.html
+7. https://docs.bmc.com/docs/display/public/sso90/End-to-end+steps+for+configuring+Active+Directory+Kerberos+authentication
+8. https://docs.bmc.com/docs/display/public/sso90/Reconfiguring+your+browser
+9. https://docs.bmc.com/docs/display/public/sso90/Kerberos+authentication
+10. https://docs.bmc.com/docs/display/public/sso90/Mapping+the+Kerberos+service+name
+11. https://docs.bmc.com/docs/display/public/sso90/Generating+a+keytab+file+for+the+service+principal
+12. https://docs.spring.io/spring-security-kerberos/docs/1.0.2.BUILD-SNAPSHOT/reference/htmlsingle/#setupwinkerberos
