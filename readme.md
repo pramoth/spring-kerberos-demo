@@ -27,4 +27,5 @@ we not need to use ```setsp``` command because ```ktpass``` command will generat
 9. https://docs.bmc.com/docs/display/public/sso90/Kerberos+authentication
 10. https://docs.bmc.com/docs/display/public/sso90/Mapping+the+Kerberos+service+name
 11. https://docs.bmc.com/docs/display/public/sso90/Generating+a+keytab+file+for+the+service+principal
-12. https://docs.spring.io/spring-security-kerberos/docs/1.0.2.BUILD-SNAPSHOT/reference/htmlsingle/#setupwinkerberos
+12. https://docs.spring.io/spring-security-kerberos/docs/1.0.2.BUILD-SNAPSHOT/reference/htmlsingle/#setupwinkerberos\
+13. https://blogs.technet.microsoft.com/tristank/2006/08/02/two-easy-ways-to-pick-kerberos-from-ntlm-in-an-http-capture NTLM Kerberos header
